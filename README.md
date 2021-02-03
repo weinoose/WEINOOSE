@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emir Yarkın Yaman</h1>
 <h3 align="center">A passionate self-taught data scientist from Turkey.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yarknyaman&label=Profile%20views&color=0e75b6&style=flat" alt="yarknyaman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yarknyaman" alt="yarknyaman" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/Wei̇noose" target="blank"><img src="https://img.shields.io/twitter/follow/wei̇noose?logo=twitter&style=for-the-badge" alt="wei̇noose" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/weinoose](linktr.ee/weinoose)

@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **yarknyaman@gmail.com**
+- 📫 How to reach me **weinoose@gmail.com**
 
 <h3 align="left">Social Media:</h3>
 <p align="left"> <a href="https://instagram.com/Weinoose" target="_blank"> <h4> Instagram </h4>

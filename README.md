@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/weinoose](linktr.ee/weinoose)
-
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **weinoose@gmail.com**

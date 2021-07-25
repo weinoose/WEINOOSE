@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emir Yarkın Yaman</h1>
 <h3 align="center">Self-taught Data Scientist, Udemy Instructor.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=weinoose&label=Profile%20views&color=0e75b6&style=flat" alt="weinoose" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weinoose" alt="weinoose" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/weinoose" target="blank"><img src="https://img.shields.io/twitter/follow/weinoose?logo=twitter&style=for-the-badge" alt="weinoose" /></a> </p>
-
 - 🔭 I’m currently working on **Artificial Intelligence**
 
-- 💬 Ask me about! **Data Science**
-
 - 🔭 I’m currently working on **Cyber Security**
+
+- 💬 Ask me about! **Data Science**
 
 - 💬 Ask me about! **Python**
 

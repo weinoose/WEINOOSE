@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emir Yarkın Yaman</h1>
 <h3 align="center">Self-taught Data Scientist, Udemy Instructor.</h3>
 
-- 🔭 I’m currently working on **Artificial Intelligence**
+- 🔭 I’m currently working on **AI & AR**
 
-- 🔭 I’m currently working on **Cyber Security**
+- 🔭 I’m currently working on **Cybersecurity**
 
 - 💬 Ask me about! **Data Science**
 

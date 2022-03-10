@@ -11,7 +11,9 @@
 
 - 📫 How to Reach Me? **weinoose@gmail.com**
 
-- 📫 All of my projects are available at **github.com/Weinoose**
+- 📫 All of my projects are available at **https://www.github.com/Weinoose**
+
+- 📫 All of my projects are available at **https://www.kaggle.com/weinoose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

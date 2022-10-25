@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emir Yarkın Yaman</h1>
-<h3 align="center">Self-taught Data Scientist, Udemy Instructor.</h3>
+<h3 align="center">Self-taught Data Scientist | ML&DL Enthusiast | Motorsports Addict</h3>
 
 - 🔭 I’m currently working on **Forecast Applications**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emir Yarkın Yaman</h1>
 <h3 align="center">Self-taught Data Scientist | ML&DL Enthusiast | Motorsports Addict</h3>
 
-- 🔭 I’m currently working on **Forecast Applications**
+- 🔭 I’m currently working on **A.I. Applications on Health Physic**
 
 - 🔭 I’m currently working on **Deep Learning**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to Reach Me? **weinoose@gmail.com**
 
-- 📫 All of my projects are available at **https://www.github.com/Weinoose**
+- 📫 All of my projects are available at **https://www.github.com/WEINOOSE**
 
 - 📫 All of my projects are available at **https://www.kaggle.com/weinoose**
 

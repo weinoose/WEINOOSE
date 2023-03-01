@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emir Yarkın Yaman</h1>
-<h3 align="center">Self-taught Data Scientist | ML&DL Enthusiast | Motorsports Addict</h3>
+<h3 align="center">Data Scientist | Motorsports Addict | Engineer</h3>
 
-- 🔭 I’m currently working on **Data Science Applications on Health Physics**
+- 🔭 I’m currently working on **Machine Learning Applications on Health Physics**
 
 - 🔭 I’m currently working on **Deep Learning**
 
